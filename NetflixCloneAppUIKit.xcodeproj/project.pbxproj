@@ -19,9 +19,8 @@
 		40579A1C2A59FD8500709AE5 /* CollectionViewTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40579A1B2A59FD8500709AE5 /* CollectionViewTableViewCell.swift */; };
 		40579A1E2A5A37D900709AE5 /* HeroHeaderUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40579A1D2A5A37D900709AE5 /* HeroHeaderUIView.swift */; };
 		40579A202A5B8B6500709AE5 /* APICaller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40579A1F2A5B8B6500709AE5 /* APICaller.swift */; };
-		40579A222A5B8FC200709AE5 /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40579A212A5B8FC200709AE5 /* Movie.swift */; };
+		40579A222A5B8FC200709AE5 /* Title.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40579A212A5B8FC200709AE5 /* Title.swift */; };
 		40579A242A5B931300709AE5 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40579A232A5B931300709AE5 /* Extensions.swift */; };
-		40579A262A5B962C00709AE5 /* Tv.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40579A252A5B962C00709AE5 /* Tv.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,9 +38,8 @@
 		40579A1B2A59FD8500709AE5 /* CollectionViewTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewTableViewCell.swift; sourceTree = "<group>"; };
 		40579A1D2A5A37D900709AE5 /* HeroHeaderUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroHeaderUIView.swift; sourceTree = "<group>"; };
 		40579A1F2A5B8B6500709AE5 /* APICaller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APICaller.swift; sourceTree = "<group>"; };
-		40579A212A5B8FC200709AE5 /* Movie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movie.swift; sourceTree = "<group>"; };
+		40579A212A5B8FC200709AE5 /* Title.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Title.swift; sourceTree = "<group>"; };
 		40579A232A5B931300709AE5 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
-		40579A252A5B962C00709AE5 /* Tv.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tv.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,8 +118,7 @@
 		40579A182A59FCDA00709AE5 /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				40579A212A5B8FC200709AE5 /* Movie.swift */,
-				40579A252A5B962C00709AE5 /* Tv.swift */,
+				40579A212A5B8FC200709AE5 /* Title.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -222,8 +219,7 @@
 				40579A242A5B931300709AE5 /* Extensions.swift in Sources */,
 				405799FC2A59F21100709AE5 /* SceneDelegate.swift in Sources */,
 				40579A112A59F45300709AE5 /* UpcomingViewController.swift in Sources */,
-				40579A222A5B8FC200709AE5 /* Movie.swift in Sources */,
-				40579A262A5B962C00709AE5 /* Tv.swift in Sources */,
+				40579A222A5B8FC200709AE5 /* Title.swift in Sources */,
 				40579A0F2A59F42100709AE5 /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
