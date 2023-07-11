@@ -27,6 +27,7 @@
 		40579A2F2A5CD4CB00709AE5 /* TitleTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40579A2E2A5CD4CB00709AE5 /* TitleTableViewCell.swift */; };
 		40579A312A5CD82D00709AE5 /* TitleViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40579A302A5CD82D00709AE5 /* TitleViewModel.swift */; };
 		40579A332A5CF83100709AE5 /* SearchResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40579A322A5CF83100709AE5 /* SearchResultsViewController.swift */; };
+		40579A372A5DD99000709AE5 /* YoutubeSearchResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40579A362A5DD99000709AE5 /* YoutubeSearchResponse.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,6 +51,7 @@
 		40579A2E2A5CD4CB00709AE5 /* TitleTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleTableViewCell.swift; sourceTree = "<group>"; };
 		40579A302A5CD82D00709AE5 /* TitleViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleViewModel.swift; sourceTree = "<group>"; };
 		40579A322A5CF83100709AE5 /* SearchResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultsViewController.swift; sourceTree = "<group>"; };
+		40579A362A5DD99000709AE5 /* YoutubeSearchResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YoutubeSearchResponse.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +133,7 @@
 			isa = PBXGroup;
 			children = (
 				40579A212A5B8FC200709AE5 /* Title.swift */,
+				40579A362A5DD99000709AE5 /* YoutubeSearchResponse.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 				405799FA2A59F21100709AE5 /* AppDelegate.swift in Sources */,
 				40579A332A5CF83100709AE5 /* SearchResultsViewController.swift in Sources */,
 				40579A242A5B931300709AE5 /* Extensions.swift in Sources */,
+				40579A372A5DD99000709AE5 /* YoutubeSearchResponse.swift in Sources */,
 				405799FC2A59F21100709AE5 /* SceneDelegate.swift in Sources */,
 				40579A112A59F45300709AE5 /* UpcomingViewController.swift in Sources */,
 				40579A222A5B8FC200709AE5 /* Title.swift in Sources */,
